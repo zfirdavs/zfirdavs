@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Firdavs
-- 👀 I’m interested in Golang language and ecosystem
+- 👀 I’m interested in Golang language and fertile ecosystem
 - 🌱 I’m currently learning to learn
-- 📫 How to reach me via email or telegram
+- 📫 How to reach me: via email or telegram
 
 <!---
 zfirdavs/zfirdavs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
