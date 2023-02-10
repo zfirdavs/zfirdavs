@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Firdavs
-- 👀 I’m interested in Golang language and fertile ecosystem
+- 👀 I’m interested in Golang language and it's fertile ecosystem
 - 🌱 I’m currently learning to learn
 - 📫 How to reach me: via email or telegram
 
